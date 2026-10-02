@@ -49,3 +49,6 @@ Phone(Spotify) --> Wi-Fi --> Raspberry Pi (Spotify Soloist) --> AUX Cord --> Ste
 ### [watch demo](https://www.youtube.com/shorts/WGL85Hfmr-g)
 ### Screen Shot of Pi Terminal
 <img width="1481" height="702" alt="image" src="https://github.com/user-attachments/assets/8e14c839-a8bc-42d9-b1e4-024e825aa728" />
+
+## Author
+Matthew Storti
