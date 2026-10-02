@@ -6,7 +6,7 @@ One day, I got fed up with having to physically plug my phone into the speakers 
 This led me to build a Spotify Connect music player using a Raspberry Pi.
 
 ## Features
-- Play music from a dedicated device through Spotify's device selection feature
+- Play music from any device Spotify's device selection feature
 - Adjust volume from the Spotify app
 
 ## Technologies
